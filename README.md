@@ -1,4 +1,4 @@
-# Uni-ExtensionUni Terminal is a straightforward Chrome extension, similar to browser wallet extensions. Installation is a breeze, and the user interface is intuitive for anyone familiar with crypto extensions.
+# Uni Terminal is a straightforward Chrome extension, similar to browser wallet extensions. Installation is a breeze, and the user interface is intuitive for anyone familiar with crypto extensions.
 
 Once installed, Uni Terminal offers a suite of tools to simplify and enhance your crypto experience:
 
